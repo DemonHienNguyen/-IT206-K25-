@@ -1,0 +1,224 @@
+================================================================================
+PHAN TICH: UU DIEM VA NHUOC DIEM CUA VIEC SU DUNG AI DE VIET CHUONG TRINH
+QUIZ GAME BANG C
+================================================================================
+
+I. UU DIEM CUA VIEC SU DUNG AI
+================================================================================
+
+1. TOC DO PHAT TRIEN NHANH
+   - AI co the tao code nhanh chong, tiet kiem thoi gian
+   - Co the sinh ra nhieu phien ban code trong thoi gian ngan
+   - Giam thoi gian viet code thu cong tu dau
+
+2. TAI LIEU VA GIAI THICH CHI TIET
+   - AI co the cung cap giai thich cho tung dong code
+   - Tao ra comment va documentation day du
+   - Giai thich cac khai niem lap trinh mot cach de hieu
+
+3. TOI UU HOA CODE
+   - AI co the refactor code de tranh lap code
+   - Chuyen doi code tu phien ban don gian sang phien ban toi uu
+   - Ap dung cac best practices trong lap trinh
+
+4. NHIEU PHUONG AN GIAI QUYET
+   - AI co the de xuat nhieu cach giai quyet cho cung mot van de
+   - Co the so sanh cac phuong phap khac nhau
+   - Linh hoat trong cach tiep can
+
+5. HOC TAP VA HUONG DAN
+   - AI co the giai thich tai sao code hoat dong nhu vay
+   - Cung cap vi du va bai tap
+   - Tro thanh cong cu hoc tap hieu qua
+
+6. PHAT HIEN LOI NHANH
+   - AI co the phat hien mot so loi cu phap (syntax errors)
+   - Kiem tra logic co ban
+   - De xuat cach sua loi
+
+7. CHUAN HOA CODE
+   - Ap dung coding standards nhat quan
+   - Dat ten bien va ham theo chuan
+   - Cau truc code ro rang, de doc
+
+================================================================================
+
+II. NHUOC DIEM CUA VIEC SU DUNG AI
+================================================================================
+
+1. THIEU HIEU BIET SAU VE LOGIC
+   - Nguoi dung co the khong hieu sau ve cach code hoat dong
+   - Kho nang cao kien thuc lap trinh thuc su
+   - Phu thuoc vao AI thay vi tu minh suy nghi
+
+2. LOI LOGIC KHONG DUOC PHAT HIEN
+   - AI co the tao ra code co loi logic ma khong phat hien duoc
+   - Can phai test ky luong de tim bug
+   - Co the co nhung truong hop edge case khong duoc xu ly
+
+3. KHONG PHU HOP VOI YEU CAU CU THE
+   - AI co the khong hieu het yeu cau dac biet cua du an
+   - Code co the khong phu hop voi quy trinh cua cong ty
+   - Can phai dieu chinh nhieu sau khi nhan code
+
+4. THIEU KINH NGHIEM THUC TE
+   - AI khong co kinh nghiem ve cac van de thuc te trong lap trinh
+   - Khong biet ve performance issues trong moi truong thuc te
+   - Co the khong tuong thich voi he thong cu
+
+5. BAO MAT VA AN TOAN
+   - AI co the khong chu y den cac van de bao mat
+   - Code co the co loi hong bao mat (security vulnerabilities)
+   - Can phai review code ky luong ve mat bao mat
+
+6. PHU THUOC QUA MUC
+   - Nguoi lap trinh co the tro nen phu thuoc vao AI
+   - Giam kha nang tu giai quyet van de
+   - Kho phat trien ky nang lap trinh doc lap
+
+7. CODE CO THE KHONG TOI UU
+   - AI co the tao code hoat dong nhung khong toi uu
+   - Co the khong phu hop voi yeu cau performance
+   - Can phai refactor lai de cai thien
+
+================================================================================
+
+III. AI HO TRO TOT O DIEM NAO?
+================================================================================
+
+1. VIET CODE BO SUNG (BOILERPLATE CODE)
+   - Tao cau truc co ban cua chuong trinh
+   - Khai bao struct, ham, bien
+   - Setup file va thu muc
+
+2. REFACTORING VA TOI UU CODE
+   - Chuyen doi code tu dang nay sang dang khac
+   - Tach code thanh cac ham nho hon
+   - Ap dung design patterns
+
+3. GIAI THICH CODE VA KHAI NIEM
+   - Giai thich cach hoat dong cua code
+   - Giai thich cac khai niem lap trinh
+   - Tao tai lieu huong dan
+
+4. TIM VA SUA LOI CU PHAP
+   - Phat hien syntax errors
+   - De xuat cach sua loi
+   - Kiem tra format code
+
+5. TAO TEST CASE CO BAN
+   - De xuat cac truong hop test
+   - Tao code test don gian
+   - Kiem tra logic co ban
+
+6. CHUYEN DOI NGON NGU
+   - Chuyen code tu ngon ngu nay sang ngon ngu khac
+   - Chuyen tu phien ban cu sang phien ban moi
+   - Modernize legacy code
+
+7. DOCUMENTATION
+   - Tao comment cho code
+   - Viet README file
+   - Tao tai lieu API
+
+================================================================================
+
+IV. AI HAN CHE O DAU?
+================================================================================
+
+1. LOGIC PHUC TAP VA TOI UU
+   - Kho xu ly cac bai toan logic phuc tap
+   - Co the khong tim ra giai phap toi uu nhat
+   - Can suy nghi cua con nguoi cho cac van de kho
+
+2. DEBUGGING CHUYEN SAU
+   - Kho phat hien cac loi logic phuc tap
+   - Khong the test trong moi truong thuc te
+   - Can kinh nghiem cua lap trinh vien
+
+3. YEU CAU DẶC BIET CUA DU AN
+   - Khong hieu ro context cua du an
+   - Khong biet ve business logic dac biet
+   - Can phai giai thich chi tiet cho AI
+
+4. PERFORMANCE OPTIMIZATION
+   - Khong biet ve performance requirements cu the
+   - Co the khong toi uu cho hardware dac biet
+   - Can profiling va optimization thu cong
+
+5. BAO MAT VA AN TOAN
+   - Khong luon chu y den security best practices
+   - Co the tao ra code co loi hong bao mat
+   - Can security review chuyen nghiep
+
+6. TICH HOP VOI HE THONG CU
+   - Khong biet ve architecture cua he thong hien tai
+   - Co the khong tuong thich voi code cu
+   - Can hieu biet ve he thong
+
+7. KINH NGHIEM THUC TE
+   - Khong co kinh nghiem ve cac van de thuc te
+   - Khong biet ve cac bug pho bien trong moi truong thuc te
+   - Can kinh nghiem cua lap trinh vien
+
+================================================================================
+
+V. KET LUAN VA KHUYEN NGHI
+================================================================================
+
+AI la mot cong cu huu ich trong lap trinh, nhung khong phai la giai phap
+hoan toan. De su dung AI hieu qua:
+
+1. SU DUNG AI NHU CONG CU HO TRO
+   - Dung AI de giam bot cong viec lap di lap lai
+   - Dung AI de hoc tap va hieu biet them
+   - Khong phu thuoc hoan toan vao AI
+
+2. LUON REVIEW CODE
+   - Kiem tra ky code do AI tao ra
+   - Test day du truoc khi su dung
+   - Hieu ro cach code hoat dong
+
+3. HOC TU CODE AI TAO RA
+   - Doc va hieu code do AI sinh ra
+   - Hoc cac ky thuat va pattern moi
+   - Phat trien ky nang lap trinh cua ban than
+
+4. KET HOP VOI KINH NGHIEM
+   - Su dung kinh nghiem cua ban de danh gia code AI
+   - Dieu chinh code cho phu hop voi du an
+   - Ap dung best practices ma ban biet
+
+5. BAO MAT LA UU TIEN
+   - Luon kiem tra code ve mat bao mat
+   - Review cac diem co the co loi hong
+   - Ap dung security best practices
+
+================================================================================
+
+VI. VI DU CU THE TRONG QUIZ GAME
+================================================================================
+
+AI HO TRO TOT:
+- Tao cau truc struct Question
+- Viet ham hien thi cau hoi
+- Tao logic chon cau hoi ngau nhien
+- Refactor code tu Prompt1 -> Prompt2 -> Prompt3
+- Giai thich cach hoat dong cua rand(), srand()
+- Tao comment va documentation
+
+AI HAN CHE:
+- Khong biet ve yeu cau cu the cua nguoi dung (vi du: format file output)
+- Co the khong phat hien loi logic trong viec chon cau hoi trung lap
+- Khong biet ve performance requirements (vi du: can xu ly bao nhieu nguoi choi)
+- Khong tu dong test code trong moi truong thuc te
+- Co the khong chu y den edge cases (vi du: nguoi choi nhap sai format)
+
+================================================================================
+
+KET LUAN: AI la mot cong cu manh me nhung can duoc su dung mot cach thong
+minh. Lap trinh vien nen su dung AI de tang nang suat va hoc tap, nhung van
+phai giu vai tro chu dong trong viec review, test, va toi uu code.
+
+================================================================================
+
